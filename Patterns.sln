@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{66DDAEB2-0FBB-48AB-985E-6D49E38E039C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{CA72E0C0-B9A2-4C74-9750-B0DB2AC589A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{FB4481E0-B585-4CC2-8664-824660E65E6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66DDAEB2-0FBB-48AB-985E-6D49E38E039C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DDAEB2-0FBB-48AB-985E-6D49E38E039C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DDAEB2-0FBB-48AB-985E-6D49E38E039C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DDAEB2-0FBB-48AB-985E-6D49E38E039C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA72E0C0-B9A2-4C74-9750-B0DB2AC589A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA72E0C0-B9A2-4C74-9750-B0DB2AC589A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA72E0C0-B9A2-4C74-9750-B0DB2AC589A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA72E0C0-B9A2-4C74-9750-B0DB2AC589A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB4481E0-B585-4CC2-8664-824660E65E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4481E0-B585-4CC2-8664-824660E65E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4481E0-B585-4CC2-8664-824660E65E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4481E0-B585-4CC2-8664-824660E65E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
